@@ -1,0 +1,68 @@
+Iris Okonkwo
+UX/UI Designer & Frontend Developer
+Email: iris.okonkwo@email.com | Phone: +1-555-909-1010
+Portfolio: irisokonkwo.design | Dribbble: dribbble.com/irisokonkwo
+Location: Atlanta, GA
+
+─────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────
+Creative UX/UI Designer with 5 years of experience crafting delightful,
+accessible, and user-centred digital experiences. Bridges the gap between
+design and development with proficiency in HTML, CSS, JavaScript, and Python
+(for rapid prototyping and data-driven design decisions). Strong portfolio
+spanning fintech, healthcare, and consumer apps.
+
+─────────────────────────────────────────────────────────
+SKILLS
+─────────────────────────────────────────────────────────
+Design     : Figma, Adobe XD, Sketch, Illustrator, Photoshop, InVision
+UX Methods : User Research, Wireframing, Prototyping, Usability Testing, A/B Testing
+Frontend   : HTML5, CSS3, JavaScript, React, TailwindCSS, GSAP (animations)
+Backend    : Python (Flask, basic FastAPI), SQL
+Accessibility: WCAG 2.1 AA compliance, screen reader testing
+Analytics  : Google Analytics, Hotjar, Mixpanel, FullStory
+
+─────────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────────
+Senior UX/UI Designer — HealthConnect, Atlanta, GA
+Mar 2022 – Present
+• Led end-to-end design for patient portal used by 300K+ users; increased task completion by 28%.
+• Conducted 50+ user interviews, usability tests, and card-sorting sessions.
+• Built interactive prototypes in Figma and validated with Python-based user analytics (Pandas, Matplotlib).
+• Established design system with 200+ reusable components; accelerated frontend dev by 40%.
+• Achieved WCAG 2.1 AA accessibility compliance across all new features.
+
+UX Designer & Frontend Dev — CreativeAgency, Nashville, TN
+Jul 2019 – Feb 2022
+• Designed and coded frontend for 15 client projects using HTML, CSS, JavaScript, and React.
+• Used Python scripts to analyse user behaviour data and generate design insights.
+• Produced motion design assets using GSAP and After Effects for onboarding flows.
+• Collaborated daily with Python/Node.js backend developers to ensure design feasibility.
+
+Freelance UI/UX Designer — Self-Employed, Remote
+Jan 2018 – Jun 2019
+• Designed logos, landing pages, and mobile app UIs for 20+ startups.
+• Created rapid HTML/CSS prototypes for client presentations.
+• Built a Python web scraper to gather competitive UX benchmarking data.
+
+─────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────
+B.F.A. Interaction Design — Georgia Tech, 2017 | GPA: 3.7/4.0
+Minor: Computer Science
+
+─────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────
+• Nielsen Norman Group UX Certification (2022)
+• Google UX Design Professional Certificate (2021)
+• Figma Advanced Certification (2023)
+
+─────────────────────────────────────────────────────────
+AWARDS
+─────────────────────────────────────────────────────────
+• Webby Award Nominee – Best UX, HealthConnect Portal 2023
+• Awwwards Site of the Day – CreativeAgency client project 2021
+• AIGA Atlanta Design Excellence Award 2020

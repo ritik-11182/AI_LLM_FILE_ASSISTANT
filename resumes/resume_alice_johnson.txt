@@ -1,0 +1,76 @@
+Alice Johnson
+Senior Software Engineer
+Email: alice.johnson@email.com | Phone: +1-555-101-2020
+LinkedIn: linkedin.com/in/alicejohnson | GitHub: github.com/alicejohnson
+Location: San Francisco, CA
+
+─────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────
+Results-driven Senior Software Engineer with 7+ years of experience designing
+and building scalable backend services and data pipelines. Proficient in Python,
+Go, and cloud-native technologies. Passionate about clean code, system design,
+and mentoring junior developers.
+
+─────────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────────
+Languages  : Python, Go, JavaScript, SQL, Bash
+Frameworks : FastAPI, Django, Flask, React
+Databases  : PostgreSQL, MongoDB, Redis, BigQuery
+Cloud      : AWS (EC2, S3, Lambda, RDS), GCP
+DevOps     : Docker, Kubernetes, Terraform, GitHub Actions, Jenkins
+Tools      : Git, JIRA, Confluence, DataDog, Prometheus
+
+─────────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────────
+Senior Software Engineer — TechCorp Inc., San Francisco, CA
+Jan 2021 – Present
+• Led migration of monolithic application to microservices architecture using Python (FastAPI) and Docker, reducing deployment time by 40%.
+• Built real-time data ingestion pipeline in Python processing 500K+ events/day using Kafka and BigQuery.
+• Mentored a team of 4 junior engineers; conducted weekly code reviews and architecture discussions.
+• Improved PostgreSQL query performance by 60% through indexing and query optimisation.
+• Developed internal developer tools using Python and Bash scripting.
+
+Software Engineer — DataStream Solutions, Austin, TX
+Jun 2018 – Dec 2020
+• Designed RESTful APIs using Django REST Framework for a SaaS analytics platform (50K+ users).
+• Automated ETL workflows using Apache Airflow and Python, saving 20 engineering hours/week.
+• Integrated third-party OAuth2 providers (Google, GitHub) for SSO.
+• Contributed to CI/CD pipeline setup using Jenkins and GitHub Actions.
+
+Junior Software Developer — StartupXYZ, Remote
+Aug 2016 – May 2018
+• Built MVP features for a task-management web app using Flask and React.
+• Wrote unit and integration tests using pytest, achieving 85% code coverage.
+• Maintained MongoDB collections and wrote aggregation pipelines.
+
+─────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────
+B.S. Computer Science — University of Texas at Austin, 2016
+GPA: 3.8/4.0 | Dean's List (all semesters)
+
+─────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────
+• AWS Certified Solutions Architect – Associate (2023)
+• Google Professional Data Engineer (2022)
+• Certified Kubernetes Application Developer (CKAD) (2021)
+
+─────────────────────────────────────────────────────────
+PROJECTS
+─────────────────────────────────────────────────────────
+ResumeScan (Open Source)
+  Python CLI tool to parse and rank resumes using NLP. Stars: 1.2k on GitHub.
+  Tech: Python, spaCy, FastAPI, React
+
+PyPipeline
+  Lightweight Python-based ETL framework for small teams.
+  Tech: Python, SQLAlchemy, Celery, PostgreSQL
+
+─────────────────────────────────────────────────────────
+LANGUAGES
+─────────────────────────────────────────────────────────
+English (Fluent), Spanish (Conversational)

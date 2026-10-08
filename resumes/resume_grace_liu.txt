@@ -1,0 +1,71 @@
+Grace Liu
+Mobile App Developer (iOS & Android)
+Email: grace.liu@email.com | Phone: +1-555-707-8080
+Portfolio: graceliudev.com | GitHub: github.com/graceliu-mobile
+Location: Los Angeles, CA
+
+─────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────
+Innovative Mobile Developer with 5 years of experience shipping polished,
+high-performance iOS and Android applications. Proficient in Swift, Kotlin, and
+cross-platform development with React Native and Flutter. Adept at building
+pixel-perfect UIs, integrating REST/GraphQL APIs, and writing automated tests.
+Also experienced with Python backend development for mobile services.
+
+─────────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────────
+Mobile     : Swift (SwiftUI, UIKit), Kotlin, Jetpack Compose, Objective-C
+Cross-Plat : React Native, Flutter, Dart
+Backend    : Python (FastAPI), Node.js, Firebase, GraphQL, REST APIs
+Testing    : XCTest, Espresso, Detox, Jest
+DevOps     : Fastlane, Bitrise, GitHub Actions, TestFlight, Google Play
+Tools      : Xcode, Android Studio, Figma, Instruments, Charles Proxy
+
+─────────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────────
+Senior iOS Developer — MobileFirst Inc., Los Angeles, CA
+Nov 2021 – Present
+• Led development of a social media iOS app (Swift/SwiftUI) with 2M+ downloads on App Store.
+• Reduced app crash rate from 3.2% to 0.4% through systematic debugging (Instruments, Crashlytics).
+• Integrated real-time messaging using WebSockets and Python backend APIs.
+• Built automated UI test suite using XCTest covering 200+ test cases.
+• Mentored 2 junior iOS developers and conducted bi-weekly knowledge-sharing sessions.
+
+Mobile Developer — AppFactory Studio, San Diego, CA
+Aug 2019 – Oct 2021
+• Developed and shipped 6 client apps on both iOS (Swift) and Android (Kotlin).
+• Built shared React Native modules to accelerate cross-platform feature development.
+• Integrated push notifications (APNs, FCM), in-app purchases (StoreKit), and biometric auth.
+• Wrote Python scripts for test data generation and build automation.
+
+Junior Mobile Developer — TechStartup, Remote
+May 2018 – Jul 2019
+• Developed features for a fitness-tracking Flutter app used by 50K+ users.
+• Integrated HealthKit (iOS) and Google Fit (Android) APIs.
+• Fixed 100+ bugs and improved app rating from 3.2 to 4.5 stars.
+
+─────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────
+B.S. Software Engineering — USC (University of Southern California), 2018
+
+─────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────
+• Apple Certified iOS Developer (2022)
+• Google Associate Android Developer (2021)
+• AWS Certified Cloud Practitioner (2020)
+
+─────────────────────────────────────────────────────────
+FEATURED APPS
+─────────────────────────────────────────────────────────
+Momentz (iOS & Android)
+  Photo-sharing app with AI filters. 2M+ downloads.
+  Tech: Swift, Kotlin, Python (FastAPI), Firebase, CoreML
+
+FitTrackr (Flutter)
+  Cross-platform fitness tracker.
+  Tech: Flutter, Dart, Python, HealthKit, Google Fit API

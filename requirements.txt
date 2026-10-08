@@ -1,0 +1,11 @@
+# Core dependencies
+openai>=1.0.0          # OpenAI-compatible client (works with OpenRouter)
+requests>=2.31.0       # HTTP requests for OpenRouter API
+python-dotenv>=1.0.0   # Load .env files for API keys
+
+# File reading
+PyPDF2>=3.0.1          # Read PDF files
+python-docx>=1.1.0     # Read DOCX files
+
+# Utilities (standard library, listed for clarity)
+# os, pathlib, json, datetime – all part of Python stdlib

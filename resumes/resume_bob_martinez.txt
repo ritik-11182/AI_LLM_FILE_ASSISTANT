@@ -1,0 +1,72 @@
+Bob Martinez
+Data Scientist & ML Engineer
+Email: bob.martinez@email.com | Phone: +1-555-202-3030
+LinkedIn: linkedin.com/in/bobmartinez | Kaggle: kaggle.com/bobmartinez
+Location: New York, NY
+
+─────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────
+Creative and analytical Data Scientist with 5 years of experience applying machine
+learning and statistical modelling to solve real-world business problems. Strong
+background in Python, deep learning, and NLP. Experienced in deploying ML models
+to production using MLflow and AWS SageMaker.
+
+─────────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────────
+Languages  : Python, R, SQL, Scala
+ML/AI      : Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM
+NLP        : NLTK, spaCy, Hugging Face Transformers, LangChain
+Data       : Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau
+Cloud/MLOps: AWS SageMaker, MLflow, DVC, Docker, Airflow
+Databases  : PostgreSQL, MySQL, Snowflake, Redshift
+
+─────────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────────
+Senior Data Scientist — FinTech Innovations, New York, NY
+Mar 2022 – Present
+• Built a credit risk scoring model using XGBoost and Python, reducing default rate by 18%.
+• Developed an NLP-based document classification system (LangChain + Hugging Face) processing 100K documents/day.
+• Created automated ML pipeline using Apache Airflow and Python for model retraining.
+• Led A/B testing framework design and statistical analysis using Python (scipy, statsmodels).
+• Presented ML insights to C-suite executives; translated technical findings into business recommendations.
+
+Data Scientist — RetailAI, Chicago, IL
+Jul 2019 – Feb 2022
+• Built demand forecasting models using LSTM (TensorFlow) achieving 92% accuracy.
+• Implemented recommendation engine using collaborative filtering (Python, Surprise library).
+• Performed large-scale data analysis on Snowflake using SQL and Python (Pandas, NumPy).
+• Deployed models to AWS SageMaker and monitored performance with custom dashboards (Plotly, Tableau).
+
+Data Analyst — MarketMetrics, Boston, MA
+Aug 2017 – Jun 2019
+• Cleaned and analysed datasets of 10M+ rows using Python and SQL.
+• Created executive dashboards using Tableau and Matplotlib.
+• Developed churn prediction model (Scikit-learn, Python) with 87% precision.
+
+─────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────
+M.S. Data Science — Columbia University, New York, 2019
+B.S. Statistics — Boston University, 2017 | GPA: 3.7/4.0
+
+─────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────
+• AWS Certified Machine Learning – Specialty (2023)
+• TensorFlow Developer Certificate (2022)
+• Databricks Certified Associate Developer for Apache Spark (2021)
+
+─────────────────────────────────────────────────────────
+PUBLICATIONS & TALKS
+─────────────────────────────────────────────────────────
+• "Explainable AI for Financial Risk Models" – PyData NYC 2023
+• Co-author: "Efficient NLP Pipelines with LangChain" – Towards Data Science
+
+─────────────────────────────────────────────────────────
+KAGGLE & OPEN SOURCE
+─────────────────────────────────────────────────────────
+• Kaggle Expert (top 5% globally in Tabular Competitions)
+• Contributor to Hugging Face Datasets library (Python)

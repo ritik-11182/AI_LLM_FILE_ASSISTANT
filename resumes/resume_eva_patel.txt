@@ -1,0 +1,65 @@
+Eva Patel
+Product Manager | Tech & AI Products
+Email: eva.patel@email.com | Phone: +1-555-505-6060
+LinkedIn: linkedin.com/in/evapatel | Location: San Francisco, CA
+
+─────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────
+Strategic and data-driven Product Manager with 5 years of experience leading
+cross-functional teams to ship customer-centric software products. Skilled at
+translating ambiguous business requirements into clear product roadmaps. Background
+in engineering enables effective collaboration with development teams. Strong
+interest in AI/ML product strategy.
+
+─────────────────────────────────────────────────────────
+CORE COMPETENCIES
+─────────────────────────────────────────────────────────
+Product Strategy      | Roadmap Planning         | Agile / Scrum
+User Research & UX    | Data Analysis (Python, SQL)| Stakeholder Management
+A/B Testing           | OKR Frameworks            | Go-to-Market Strategy
+AI/ML Product Design  | API Product Management    | Competitive Analysis
+
+─────────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────────
+Senior Product Manager — AIScale Inc., San Francisco, CA
+Apr 2022 – Present
+• Owned end-to-end product lifecycle for an AI-powered document processing SaaS (LLM-based).
+• Defined product vision and roadmap that grew MRR from $200K to $1.2M in 18 months.
+• Collaborated with ML engineers to translate business needs into model requirements and evaluation criteria.
+• Used Python and SQL for funnel analysis, cohort retention studies, and A/B experiment analysis.
+• Conducted 80+ user interviews and synthesised insights into actionable product decisions.
+• Launched 3 major product releases on time and within budget.
+
+Product Manager — FinApp Technologies, San Jose, CA
+Aug 2019 – Mar 2022
+• Led development of a personal finance dashboard used by 500K+ customers.
+• Wrote detailed PRDs and user stories; coordinated sprint planning for an 8-person engineering team.
+• Improved onboarding conversion by 35% through data-driven UX redesign (Python analytics + Hotjar).
+• Partnered with data science team to integrate ML-based spend categorisation feature.
+
+Associate Product Manager — DevTools Startup, Remote
+Jun 2017 – Jul 2019
+• Supported PM for a developer productivity tool with 10K+ GitHub users.
+• Managed backlog, wrote user stories, and ran sprint retrospectives.
+• Analysed product usage data using Python (Pandas) and Mixpanel.
+
+─────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────
+M.B.A. — Stanford Graduate School of Business, 2019
+B.S. Computer Science — UC Berkeley, 2017 | GPA: 3.7/4.0
+
+─────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────
+• Pragmatic Institute Certified Product Manager (2022)
+• Google Analytics Individual Qualification (2021)
+• Certified Scrum Product Owner (CSPO) (2020)
+
+─────────────────────────────────────────────────────────
+TOOLS
+─────────────────────────────────────────────────────────
+Jira, Confluence, Figma, Amplitude, Mixpanel, Looker, Notion
+Python (Pandas, Matplotlib), SQL, Tableau, Miro

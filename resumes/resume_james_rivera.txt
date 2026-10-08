@@ -1,0 +1,69 @@
+James Rivera
+AI / Machine Learning Research Engineer
+Email: james.rivera@email.com | Phone: +1-555-010-1111
+Scholar: scholar.google.com/jrivera | GitHub: github.com/jrivera-ai
+Location: Boston, MA
+
+─────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────
+Dedicated AI/ML Research Engineer with a Ph.D. in Computer Science and 5 years
+of industry experience bridging research and production ML systems. Expert in
+large language models (LLMs), reinforcement learning, and computer vision.
+Prolific Python coder with a strong publication record. Passionate about applying
+cutting-edge AI research to create real-world impact.
+
+─────────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────────
+Languages   : Python, C++, CUDA, Julia, Bash
+ML/AI       : PyTorch, JAX, TensorFlow, Hugging Face, LangChain, LlamaIndex
+LLMs        : Fine-tuning (LoRA, QLoRA), RAG, RLHF, Prompt Engineering
+Vision      : OpenCV, YOLO, ViT, Diffusion Models (Stable Diffusion)
+MLOps       : Weights & Biases, MLflow, Kubeflow, Ray, DeepSpeed
+Infra       : AWS, GCP, SLURM (HPC clusters), Docker, Kubernetes
+
+─────────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────────
+Senior ML Research Engineer — AI Labs (Big Tech), Boston, MA
+Aug 2022 – Present
+• Developed and fine-tuned LLMs (7B–70B parameters) for code generation using Python (PyTorch, LoRA).
+• Implemented RLHF pipeline from scratch in Python; improved model helpfulness by 23% on human evals.
+• Authored 4 research papers (NeurIPS 2023, ICML 2023, ICLR 2024, ACL 2023).
+• Built Python-based RAG system using LangChain and LlamaIndex for enterprise knowledge base Q&A.
+• Optimised training throughput 3× using DeepSpeed ZeRO-3 and mixed-precision training.
+
+ML Engineer — RoboticsMind, Cambridge, MA
+Sep 2019 – Jul 2022
+• Designed deep RL agents for robotic manipulation tasks using PyTorch and OpenAI Gym (Python).
+• Built computer vision pipeline for object detection (YOLO, ViT) integrated into robot perception stack.
+• Reduced model inference latency by 4× via ONNX export and TensorRT optimisation.
+• Maintained large-scale ML experiment tracking with Weights & Biases and MLflow.
+
+Research Assistant — MIT CSAIL, Cambridge, MA
+Sep 2017 – Aug 2019
+• Conducted research on adversarial robustness of neural networks (Python, PyTorch).
+• Published 2 conference papers (CVPR 2019, AAAI 2019).
+
+─────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────
+Ph.D. Computer Science (AI & ML) — MIT, 2022
+  Thesis: "Efficient Adaptation of Large Language Models for Domain-Specific Tasks"
+M.S. Computer Science — MIT, 2018
+B.S. Mathematics & Computer Science — Harvard University, 2016 | GPA: 3.95/4.0
+
+─────────────────────────────────────────────────────────
+PUBLICATIONS (Selected)
+─────────────────────────────────────────────────────────
+• "LoRA-Efficient Fine-Tuning of LLMs" – NeurIPS 2023 (oral)
+• "RLHF at Scale: Lessons from Production" – ICML 2023
+• "Adversarial Robustness in Vision Transformers" – CVPR 2019
+Total Citations: 1,200+ | h-index: 14
+
+─────────────────────────────────────────────────────────
+OPEN SOURCE
+─────────────────────────────────────────────────────────
+• llm-toolkit (Python): Utilities for LLM fine-tuning & evaluation. 2.1K GitHub stars.
+• Contributor: Hugging Face Transformers, PyTorch Lightning

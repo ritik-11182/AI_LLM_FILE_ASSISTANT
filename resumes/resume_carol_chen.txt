@@ -1,0 +1,69 @@
+Carol Chen
+Full-Stack Web Developer
+Email: carol.chen@email.com | Phone: +1-555-303-4040
+Portfolio: carolchen.dev | GitHub: github.com/carolchen
+Location: Seattle, WA
+
+─────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────
+Versatile Full-Stack Developer with 4 years of experience building responsive,
+high-performance web applications. Specialises in React, Node.js, and Python.
+Passionate about user experience, accessibility, and agile development practices.
+
+─────────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────────
+Frontend   : React, Next.js, TypeScript, Vue.js, HTML5, CSS3, TailwindCSS
+Backend    : Node.js, Express, Python (FastAPI, Django), GraphQL, REST APIs
+Databases  : PostgreSQL, MySQL, MongoDB, Firebase, Supabase
+DevOps     : Docker, GitHub Actions, Vercel, Netlify, AWS (EC2, S3)
+Testing    : Jest, Cypress, Playwright, pytest
+Tools      : Git, Figma, Storybook, Postman, Linear
+
+─────────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────────
+Full-Stack Developer — CloudBase Technologies, Seattle, WA
+Feb 2022 – Present
+• Architected and developed a SaaS project management tool (React + FastAPI + PostgreSQL) serving 8K+ active users.
+• Built real-time collaboration features using WebSockets and Redis pub/sub (Node.js, Python).
+• Improved page load speed by 55% through code splitting, lazy loading, and CDN optimisation.
+• Wrote comprehensive test suites using Cypress (E2E) and pytest (backend), achieving 90% coverage.
+• Led frontend guild meetings and introduced component-driven development with Storybook.
+
+Full-Stack Developer — DigitalAgency Pro, Portland, OR
+Sep 2020 – Jan 2022
+• Delivered 12 client websites using React, Next.js, and Headless CMS (Contentful, Sanity).
+• Built e-commerce checkout flows integrated with Stripe API using Node.js and Python.
+• Automated deployment pipelines using GitHub Actions and Docker.
+
+Junior Web Developer — FreelanceHub, Remote
+Jan 2019 – Aug 2020
+• Developed 20+ client websites using HTML, CSS, JavaScript, and WordPress.
+• Created Python scripts for web scraping and data processing (BeautifulSoup, Requests).
+• Integrated third-party APIs (payment, maps, social media) for client applications.
+
+─────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────
+B.S. Computer Science — University of Washington, Seattle, 2018
+Minor: Human-Computer Interaction | GPA: 3.6/4.0
+
+─────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────
+• Meta Front-End Developer Professional Certificate (2023)
+• MongoDB Certified Developer Associate (2022)
+• AWS Certified Cloud Practitioner (2021)
+
+─────────────────────────────────────────────────────────
+PROJECTS
+─────────────────────────────────────────────────────────
+OpenBoard
+  Kanban-style project management app.
+  Tech: React, Python (FastAPI), PostgreSQL, WebSockets, Docker
+
+RecipeAI
+  AI-powered recipe generator using OpenAI API.
+  Tech: Next.js, Python, OpenAI API, Supabase

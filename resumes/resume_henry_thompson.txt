@@ -1,0 +1,67 @@
+Henry Thompson
+Backend Engineer | Distributed Systems
+Email: henry.thompson@email.com | Phone: +1-555-808-9090
+GitHub: github.com/henrythompson | Blog: henrythompson.tech
+Location: Chicago, IL
+
+─────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────
+Experienced Backend Engineer with 8 years of expertise building distributed,
+high-throughput systems. Deep knowledge of Python, Java, and Go. Specialises in
+designing event-driven architectures, stream processing, and high-availability
+databases. Contributor to several open-source projects.
+
+─────────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────────
+Languages   : Python, Java, Go, Rust (learning), SQL, Bash
+Frameworks  : FastAPI, Spring Boot, gRPC, Apache Kafka, Flink, Spark
+Databases   : PostgreSQL, Cassandra, DynamoDB, Redis, Elasticsearch
+Architecture: Microservices, Event-Driven, CQRS, Saga Pattern, DDD
+Cloud       : AWS (EKS, MSK, Aurora, DynamoDB), GCP
+Observability: OpenTelemetry, Jaeger, Grafana, Prometheus, Loki
+
+─────────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────────
+Staff Backend Engineer — StreamTech Corp., Chicago, IL
+Jun 2020 – Present
+• Architected event-driven order processing platform (Python + Kafka + Flink) handling 1M+ events/sec.
+• Led migration from monolith to microservices across 20 teams; reduced deployment risk by 80%.
+• Built distributed tracing system using OpenTelemetry and Jaeger, improving MTTR by 60%.
+• Designed multi-region active-active setup on AWS, achieving 99.99% availability.
+• Open-sourced internal Python library for Kafka consumer management (500+ GitHub stars).
+
+Senior Backend Engineer — LogiSys, Indianapolis, IN
+Mar 2017 – May 2020
+• Developed supply-chain tracking services in Python and Java (Spring Boot).
+• Built real-time analytics dashboard using Apache Flink and Elasticsearch.
+• Improved API response time from 800ms to 45ms through caching (Redis) and database tuning.
+• Designed gRPC service mesh for inter-service communication across 40+ microservices.
+
+Software Engineer — DataCore Inc., Chicago, IL
+Jul 2015 – Feb 2017
+• Built backend services for a B2B data marketplace using Python (Django) and PostgreSQL.
+• Automated report generation using Python (Pandas, Celery) for 200+ enterprise clients.
+• Contributed to open-source Python library for database connection pooling.
+
+─────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────
+M.S. Computer Science (Distributed Systems) — University of Illinois, 2015
+B.S. Computer Engineering — Purdue University, 2013 | GPA: 3.9/4.0
+
+─────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────
+• AWS Certified Solutions Architect – Professional (2022)
+• Confluent Certified Kafka Developer (2021)
+• Google Cloud Professional Data Engineer (2020)
+
+─────────────────────────────────────────────────────────
+OPEN SOURCE
+─────────────────────────────────────────────────────────
+• kafka-python-consumer – Python library, 500+ stars
+• Contributor: Apache Flink (Python API improvements, 3 merged PRs)
+• Technical blogger: "Designing Distributed Systems with Python" (10K readers/month)

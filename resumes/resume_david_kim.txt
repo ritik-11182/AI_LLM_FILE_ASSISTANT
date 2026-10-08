@@ -1,0 +1,69 @@
+David Kim
+DevOps & Cloud Infrastructure Engineer
+Email: david.kim@email.com | Phone: +1-555-404-5050
+LinkedIn: linkedin.com/in/davidkim | GitHub: github.com/davidkim-devops
+Location: Austin, TX
+
+─────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────────
+Dedicated DevOps Engineer with 6 years of experience building and maintaining
+cloud infrastructure, CI/CD pipelines, and container orchestration platforms.
+Deep expertise in Kubernetes, Terraform, and AWS. Committed to reliability,
+automation, and developer productivity.
+
+─────────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────────
+Cloud      : AWS (EKS, ECS, Lambda, RDS, S3, CloudFront, IAM), GCP, Azure
+IaC        : Terraform, Pulumi, AWS CloudFormation, Ansible
+Containers : Docker, Kubernetes, Helm, Istio, ArgoCD
+CI/CD      : GitHub Actions, Jenkins, CircleCI, GitLab CI, Spinnaker
+Monitoring : Prometheus, Grafana, DataDog, ELK Stack, PagerDuty
+Scripting  : Bash, Python, Go
+Databases  : RDS (PostgreSQL/MySQL), DynamoDB, ElasticSearch
+
+─────────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────────
+Senior DevOps Engineer — CloudNative Systems, Austin, TX
+May 2021 – Present
+• Designed and managed multi-region Kubernetes clusters (AWS EKS) supporting 200+ microservices.
+• Authored Terraform modules for standardised infrastructure provisioning, cutting setup time by 70%.
+• Built zero-downtime deployment pipelines using ArgoCD and GitHub Actions, deploying 50+ times/day.
+• Reduced cloud spend by $300K/year through right-sizing, Spot Instances, and auto-scaling policies.
+• Wrote Python and Bash automation scripts for operational tasks (log rotation, alerting, backups).
+• Implemented GitOps workflows and trained 15+ developers on DevOps best practices.
+
+DevOps Engineer — ScaleTech, Dallas, TX
+Jan 2018 – Apr 2021
+• Migrated on-premise workloads to AWS, reducing infrastructure costs by 45%.
+• Built monitoring and alerting stack using Prometheus, Grafana, and PagerDuty.
+• Managed CI/CD pipelines for 30+ services using Jenkins and Docker.
+• Used Python to automate AWS resource tagging and compliance checks.
+• Collaborated with security team to implement AWS IAM roles and security groups following least-privilege.
+
+Junior Systems Administrator — ITOps Corp, Houston, TX
+Jun 2016 – Dec 2017
+• Managed Linux/Windows server fleets (100+ nodes) using Ansible.
+• Set up and maintained monitoring dashboards using Nagios and Grafana.
+• Wrote Python scripts for automated backups and system health checks.
+
+─────────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────────
+B.S. Information Systems — University of Texas at Dallas, 2016
+
+─────────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────────
+• AWS Certified DevOps Engineer – Professional (2023)
+• Certified Kubernetes Administrator (CKA) (2022)
+• HashiCorp Certified: Terraform Associate (2021)
+• AWS Certified Solutions Architect – Professional (2020)
+
+─────────────────────────────────────────────────────────
+OPEN SOURCE CONTRIBUTIONS
+─────────────────────────────────────────────────────────
+• Terraform AWS Modules – contributor (Python helper scripts, documentation)
+• Helm Charts community repository – 3 charts published
